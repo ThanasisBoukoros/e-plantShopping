@@ -3,6 +3,23 @@ body, h1, ul {
     margin: 0;
     padding: 0;
 }
+.cart-quantity {
+  position: absolute;
+  
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 4px 8px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.product-cost {
+  font-size: 16px;
+  color: rgb(219, 3, 3);  
+  font-weight: bold;
+  margin-top: 10px;
+}
+
 
 /* Set a background color */
 body {
